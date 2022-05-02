@@ -6,8 +6,8 @@ Obrigado por visitar meu perfil do GitHub.
 
 <div align="center">
   <a href="https://github.com/ihacher">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFarias&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihacher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihacher&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <div align="center">
 <a href="https://www.instagram.com/_lukinhasfarias_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
